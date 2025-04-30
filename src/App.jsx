@@ -47,7 +47,7 @@ function App() {
           <div className='projects flex flex-col flex-wrap justify-evenly gap-[0px] sm:gap-[70px] text-black mt-[50px]'>
             <a href=""><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[300px] w-[380px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
               <img src="rrn.jpg" className='w-full shadow-sm'></img>
-              <h1 className='text-[20px] p-[18px]'>RoomsRentley</h1>
+              <h1 className='text-[20px] p-[18px]'>Roomsley</h1>
             </div></a>
 
             <a href=""><div className='mt-[50px] md:mr-[-350px] mb-[40px] rotate-3 h-[300px] w-[380px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
