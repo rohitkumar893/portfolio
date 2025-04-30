@@ -69,7 +69,7 @@ function App() {
           <h1 className='text-center text-[40px] skillstext text-yellow-200'>SKILLS</h1>
           <h3 className='text-center text-[32px] mt-[34px]'>JAVASCRIPT</h3>
           <h3 className='text-center text-[32px] mt-[20px]'>REACT</h3>        
-          <h3 className='text-center text-[32px] mt-[20px]'>TAILWIND</h3>
+          <h3 className='text-center text-[32px] mt-[20px]'>TAILWIND CSS</h3>
           <h3 className='text-center text-[32px] mt-[20px]'>EXPRESS JS</h3>      
         </div>
 
