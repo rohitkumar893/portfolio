@@ -122,7 +122,7 @@ body{
   }
 
   .projectscont, .aboutme, .skills, .logos, .certifications{
-    background-image: url('divbg.png');
+    background-image: url('/public/divbg.png');
     background-position: center;
     background-size: contain;
     z-index: 1;
