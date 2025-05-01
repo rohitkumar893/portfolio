@@ -45,12 +45,12 @@ function App() {
         <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full'>
           <h1 className='text-[40px] text-center text-yellow-200'>PROJECTS I'VE WORKED ON</h1>
           <div className='projects flex flex-col flex-wrap justify-evenly gap-[0px] sm:gap-[70px] text-black mt-[50px]'>
-            <a href="https://roomsley.vercel.app/"><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[300px] w-[380px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
+            <a href="https://roomsley.vercel.app/"><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
               <img src="roomsley.png" className='w-full shadow-sm'></img>
               <h1 className='text-[20px] p-[18px]'>Roomsley</h1>
             </div></a>
 
-            <a href=""><div className='mt-[50px] md:mr-[-350px] mb-[40px] rotate-3 h-[300px] w-[380px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
+            <a href=""><div className='mt-[50px] md:mr-[-350px] mb-[40px] rotate-3 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
               <img src="portfolio.jpg" className='w-full shadow-sm'></img>
               <h1 className='text-[20px] p-[18px]'>Portfolio</h1>
             </div></a>
