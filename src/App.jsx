@@ -71,6 +71,7 @@ function App() {
           <h3 className='text-center text-[32px] mt-[20px]'>REACT</h3>        
           <h3 className='text-center text-[32px] mt-[20px]'>TAILWIND CSS</h3>
           <h3 className='text-center text-[32px] mt-[20px]'>EXPRESS JS</h3>      
+          <h3 className='text-center text-[32px] mt-[20px]'>MONGO DB</h3>      
         </div>
 
         <div className='h-[3px]'>
