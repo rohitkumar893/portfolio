@@ -61,10 +61,6 @@ function App() {
           <h4></h4>
         </div>
 
-        <div className='h-[3px]'>
-          <h4></h4>
-        </div>
-
         <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px]'>
           <h1 className='text-center text-[40px] skillstext text-yellow-200'>SKILLS</h1>
           <h3 className='text-center text-[32px] mt-[34px]'>JAVASCRIPT</h3>
