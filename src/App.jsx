@@ -12,7 +12,7 @@ function App() {
       <div className="container3"></div>
 
      <div className='main h-screen w-[100%]'>
-          <nav className='navbar fixed h-[110px] w-full flex p-[30px] justify-center items-center gap-[45px]'>
+          <nav className='navbar fixed h-[120px] w-full flex p-[30px] justify-center items-center gap-[45px]'>
               <a href="" className='flex flex-col justify-center items-center'><img src="/resumeicon.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>RESUME</h3></a>
               <a href="https://github.com/rohitkumar893" className='flex flex-col justify-center items-center'><img src="/github.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>GITHUB</h3></a>
               <a href="https://www.linkedin.com/in/rohitkumar893/" className='flex flex-col justify-center items-center'><img src="/linkedin.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>LINKEDIN</h3></a>
