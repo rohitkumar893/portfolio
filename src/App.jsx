@@ -24,7 +24,7 @@ function App() {
               
             </div>
 
-            <div className='w-full flex justify-center items-end mt-[-90px] animate-bounce '>
+            <div className='w-full flex justify-center items-end mt-[-130px] sm:mt-[-90px] animate-bounce '>
               <img src="downarrow.png" className='arrow h-[32px] w-[32px] drop-shadow-lg transition-transform hover:translate-y-4'></img>
             </div>
           </div>
