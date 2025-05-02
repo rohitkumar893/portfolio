@@ -18,7 +18,7 @@ function App() {
               <a href="https://www.linkedin.com/in/rohitkumar893/" className='flex flex-col justify-center items-center'><img src="/linkedin.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>LINKEDIN</h3></a>
           </nav>
             
-            <div className='w-full h-full flex justify-center items-center flex-col select-none'>
+            <div className='w-full h-screen flex justify-center items-center flex-col select-none'>
               <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[160px]  flex justify-center items-center tracking-wide animate-pulse'><span className='text-yellow-200'>R</span><span className='text-yellow-200'>o</span><span className='text-yellow-200'>h</span><span className='text-yellow-100'>i</span><span className='text-yellow-100'>t</span><span>.</span></h1>
               <h3 className='text-[20px] text-white font-light flex'>WELCOME TO MY PORTFOLIO!</h3>
               
