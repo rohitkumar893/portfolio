@@ -30,7 +30,6 @@ function App() {
           </div>
 
           <div className='h-[3px]'>
-              <h4></h4>
             </div>
 
         <div className='aboutme text-[35px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]'>
@@ -39,7 +38,6 @@ function App() {
         </div>
 
         <div className='h-[3px]'>
-          <h4></h4>
         </div>
 
         <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full'>
@@ -58,7 +56,6 @@ function App() {
           </div>
 
         <div className='h-[3px]'>
-          <h4></h4>
         </div>
 
         <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px]'>
@@ -71,7 +68,6 @@ function App() {
         </div>
 
         <div className='h-[3px]'>
-          <h4></h4>
         </div>
 
         <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[40px] md:p-[100px]'>
@@ -84,7 +80,6 @@ function App() {
         </div>
 
         <div className='h-[3px]'>
-          <h4></h4>
         </div>
 
          <div className="logos flex justify-center items-center flex-col gap-[30px] bg-black p-[40px]">
