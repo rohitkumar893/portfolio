@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+html, body, #root{
+  height:100%;
+  width: 100%;
+}
+
 html, body{
   scrollbar-color: #7b7676 #1c2952;
   scroll-behavior: smooth;
