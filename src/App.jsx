@@ -19,7 +19,7 @@ function App() {
           </nav>
             
             <div className='w-full h-screen flex justify-center items-center flex-col select-none'>
-              <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[160px]  flex justify-center items-center tracking-wide animate-pulse'><span className='text-yellow-200'>R</span><span className='text-yellow-200'>o</span><span className='text-yellow-200'>h</span><span className='text-yellow-100'>i</span><span className='text-yellow-100'>t</span><span>.</span></h1>
+              <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[180px]  flex justify-center items-center tracking-wide animate-pulse'><span className='text-yellow-200'>R</span><span className='text-yellow-200'>o</span><span className='text-yellow-200'>h</span><span className='text-yellow-100'>i</span><span className='text-yellow-100'>𝓽</span><span>.</span></h1>
               <h3 className='text-[20px] text-white font-light flex'>WELCOME TO MY PORTFOLIO!</h3>
               
             </div>
@@ -58,13 +58,25 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px]'>
-          <h1 className='text-center text-[40px] skillstext text-yellow-200'>SKILLS</h1>
-          <h3 className='text-center text-[32px] mt-[34px]'>JAVASCRIPT</h3>
-          <h3 className='text-center text-[32px] mt-[20px]'>REACT</h3>        
-          <h3 className='text-center text-[32px] mt-[20px]'>TAILWIND CSS</h3>
-          <h3 className='text-center text-[32px] mt-[20px]'>EXPRESS JS</h3>      
-          <h3 className='text-center text-[32px] mt-[20px]'>MONGO DB</h3>      
+        <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]'>
+          <h1 className='text-center text-[40px] skillstext text-yellow-200'>MY TECH STACK</h1>
+          <div className="languages">
+            <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>JAVASCRIPT</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>HTML</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>CSS</h3>
+          </div>
+
+          <div className="frontend">
+            <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>FRONTEND</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>REACT</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>TAILWIND CSS</h3>
+          </div>
+
+          <div className="backend">
+            <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>BACKEND</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>EXPRESS JS</h3>
+          </div>    
         </div>
 
         <div className='h-[3px]'>
