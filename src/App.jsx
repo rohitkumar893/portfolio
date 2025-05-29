@@ -32,7 +32,7 @@ function App() {
           <div className='h-[3px]'>
             </div>
 
-        <div className='aboutme text-[35px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]'>
+        <div className='aboutme text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]'>
             <h1 className='text-center text-yellow-200 font-bold'>ABOUT ME :</h1>
             <p className='text-[20px] sm:text-[25px] mt-[50px] leading-loose'>A postgraduate in Computer Applications (MCA) with a strong passion for programming and a deep curiosity for exploring new and emerging technologies. Fueled by a passion for constant growth and innovation, I’m always looking to level up my skills and stay ahead in the ever-evolving tech world. With an ambition to become a Software Development Engineer (SDE), my aim is to use my knowledge and experience to craft scalable, impactful software solutions that truly make a difference.</p>
         </div>
@@ -41,7 +41,7 @@ function App() {
         </div>
 
         <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full'>
-          <h1 className='text-[40px] text-center text-yellow-200 font-bold'>PROJECTS I'VE WORKED ON :</h1>
+          <h1 className='text-[34px] text-center text-yellow-200 font-bold'>PROJECTS I'VE WORKED ON :</h1>
           <div className='projects flex flex-col flex-wrap justify-evenly gap-[0px] sm:gap-[70px] text-black mt-[50px]'>
             <a href="https://roomsley.vercel.app/"><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
               <img src="roomsley.png" className='w-full shadow-sm'></img>
@@ -59,7 +59,7 @@ function App() {
         </div>
 
         <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]'>
-          <h1 className='text-center text-[40px] skillstext text-yellow-200 font-bold'>MY TECH STACK :</h1>
+          <h1 className='text-center text-[34px] skillstext text-yellow-200 font-bold'>MY TECH STACK :</h1>
           <div className="languages">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>JAVASCRIPT</h3>
@@ -84,7 +84,7 @@ function App() {
         </div>
 
         <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[40px] md:p-[100px]'>
-            <h1 className='text-[40px] text-yellow-200 font-bold'>CERTIFICATIONS :</h1>
+            <h1 className='text-[34px] text-yellow-200 font-bold'>CERTIFICATIONS :</h1>
             
             <div>
               <a href='https://www.coursera.org/account/accomplishments/verify/LFQ94ZUI1Q7K'><img src='microsoft.jpg' className='h-[240px] md:h-[340px] rotate-357 hover:scale-95'></img></a>
