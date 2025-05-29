@@ -49,7 +49,7 @@ function App() {
             </div></a>
 
             <a href=""><div className='mt-[50px] md:mr-[-350px] mb-[40px] rotate-3 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
-              <img src="portf.png" className='w-full shadow-sm'></img>
+              <img src="portfpng" className='w-full shadow-sm'></img>
               <h1 className='text-[20px] p-[18px]'>Portfolio</h1>
             </div></a>
             </div>
@@ -75,6 +75,7 @@ function App() {
 
           <div className="backend">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>BACKEND</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>NODE JS</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>EXPRESS JS</h3>
           </div>    
         </div>
