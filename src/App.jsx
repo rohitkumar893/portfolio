@@ -97,13 +97,13 @@ function App() {
 
          <div className="logos flex justify-center items-center flex-col gap-[30px] bg-black p-[40px]">
             <div className="toplogos flex gap-[65px]">
-              <img src="mongo.png" className='logo1 h-[50px] sm:h-[80px]'></img>
+              <img src="mon.png" className='logo1 h-[50px] sm:h-[80px]'></img>
               <img src="exp.png" className='logo2 h-[50px] sm:h-[80px]'></img>
               <img src="js.png" className='logo3 h-[50px] sm:h-[80px]'></img>
             </div>
             <div className= 'bottomlogos flex gap-[65px]'>
               <img src="react.png" className='logo1 h-[50px] sm:h-[80px]'></img>
-              <img src="node.png" className='logo2 h-[50px] sm:h-[80px]'></img>
+              <img src="nod.png" className='logo2 h-[50px] sm:h-[80px]'></img>
               <img src="vite.png" className='logo3 h-[50px] sm:h-[80px]'></img>
             </div>
          </div>  
