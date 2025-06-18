@@ -9,7 +9,7 @@ function App() {
           <h2 className='text-black font-medium'>rkrohitkumar893@gmail.com</h2>
         </div>
       
-      <div className="container3 h-screen w-[100%]"></div>
+      <div className="container3 w-[100%]"></div>
 
      <div className='main h-screen w-[100%]'>
           <nav className='navbar fixed h-[120px] w-full flex p-[30px] justify-center items-center gap-[45px]'>
