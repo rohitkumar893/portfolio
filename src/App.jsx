@@ -63,6 +63,7 @@ function App() {
           <div className="languages">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>JAVASCRIPT</h3>
+            <h3 className='text-center text-[32px] mt-[20px]'>JAVASCRIPT</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>HTML</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>CSS</h3>
           </div>
