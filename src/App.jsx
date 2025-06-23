@@ -19,8 +19,8 @@ function App() {
           </nav>
             
             <div className='w-full h-screen flex justify-center items-center flex-col select-none'>
-              <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[185px]  flex justify-center items-center tracking-wide animate-pulse'><span className='text-yellow-200'>R</span><span className='text-yellow-200'>o</span><span className='text-yellow-200'>h</span><span className='text-yellow-100'>i</span><span className='text-yellow-100'>t</span><span>.</span></h1>
-              <h3 className='text-[20px] text-white font-light flex'>WELCOME TO MY PORTFOLIO!</h3>
+              <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[185px]  flex justify-center items-center tracking-wide'>Rohit</h1>
+              <div class="loader"><span class="loader-text">Software Developer</span></div>
               
             </div>
 
