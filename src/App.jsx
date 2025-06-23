@@ -62,7 +62,7 @@ function App() {
           <h1 className='text-center text-[36px] skillstext text-yellow-200 font-bold'>MY TECH STACK :</h1>
           <div className="languages">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
-            {/* <h3 className='text-center text-[32px] mt-[20px]'>TYPESCRIPT</h3> */}
+            <h3 className='text-center text-[32px] mt-[20px]'>TYPESCRIPT</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>JAVASCRIPT</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>HTML</h3>
             <h3 className='text-center text-[32px] mt-[20px]'>CSS</h3>
