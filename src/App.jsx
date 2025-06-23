@@ -19,7 +19,7 @@ function App() {
           </nav>
             
             <div className='w-full h-screen flex justify-center items-center flex-col select-none'>
-              <h1 className='namelogo drop-shadow-lg text-[100px] sm:text-[185px]  flex justify-center items-center tracking-wide'>Rohit</h1>
+              <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center items-center tracking-wide'>Rohit</h1>
               <div class="loader"><span class="loader-text">Software Developer</span></div>
               
             </div>

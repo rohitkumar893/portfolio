@@ -26,7 +26,7 @@ html, body{
   white-space: nowrap;
   font-size: 40px;
   font-weight: 700;
-  background: linear-gradient(to right,#159957, #155799);
+  background: linear-gradient(to right,#55eda1, #64a7ea);
    background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -92,7 +92,7 @@ html, body{
 
   .namelogo{
     font-weight: 600;
-    background: linear-gradient(to right,#e9dc27, #fbfaad);
+    background: linear-gradient(to right,#e9dc27, #ffffe1);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -212,14 +212,24 @@ html, body{
     }
 
     .loader-text {
-      font-size:25px;
+      font-size:28px;
+    }
+
+    .arrow{
+      margin-top: 38px;
+    }
+
+    @keyframes typewriter {
+     0% {
+        width: 0px;
+      }
+
+      100% {
+        width: 320px;
+      }
     }
 
     .loader2{
       max-width: 100vw;
-    }
-
-    .arrow{
-      margin-top: -20px;
     }
   }
