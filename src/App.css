@@ -93,7 +93,7 @@ html, body{
 
   .namelogo{
     font-weight: 600;
-    background: linear-gradient(to right,#e9dc27, #ffffe1);
+    background: linear-gradient(to right,#b4aa20, #ffffe1);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
