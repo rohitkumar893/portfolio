@@ -60,21 +60,7 @@ html, body{
     align-items: center;
     position: absolute;
     z-index: -1;
-    background: #121212;
-    background: linear-gradient(
-      135deg,
-      #121212 25%,
-      #1a1a1a 25%,
-      #1a1a1a 50%,
-      #121212 50%,
-      #121212 75%,
-      #1a1a1a 75%,
-      #1a1a1a
-    );
-    background-size: 40px 40px;
-    background-size: fill;
-  
-    animation: move 4s linear infinite;
+    background-color: black;
   }
 
     @keyframes move {
