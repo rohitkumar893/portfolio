@@ -87,7 +87,8 @@ html, body{
   }
   
   .navbar{
-    background-color: rgba(16, 16, 16, 0.584);
+    background-color: rgba(77, 77, 77, 0.584);
+    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
   }
 
   .namelogo{
