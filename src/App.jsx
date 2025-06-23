@@ -5,10 +5,10 @@ function App() {
   return (
      <>
 
-        {/* <div className='w-auto h-[30px] fixed left-4 top-[98%] rotate-[-90deg] origin-left hidden md:block bg-white px-[10px]'>
+        <div className='w-auto h-[30px] fixed left-4 top-[98%] rotate-[-90deg] origin-left hidden md:block bg-white px-[10px]'>
           <h2 className='text-black font-medium'>rkrohitkumar893@gmail.com</h2>
         </div>
-       */}
+      
       <div className="container3"></div>
 
      <div className='main w-[100%]'>
