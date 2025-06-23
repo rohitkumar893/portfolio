@@ -216,10 +216,6 @@ html, body{
       font-size:28px;
     }
 
-    .arrow{
-      margin-top: 10px;
-    }
-
     @keyframes typewriter {
      0% {
         width: 0px;
