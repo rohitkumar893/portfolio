@@ -87,7 +87,7 @@ html, body{
   }
   
   .navbar{
-    background-color: rgba(49, 49, 49, 0.584);
+    background-color: rgba(65, 65, 65, 0.648);
     mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
   }
 
