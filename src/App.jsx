@@ -10,7 +10,7 @@ function App() {
       
       <div className="container3"></div>
 
-     <div className='main w-[100%] flex flex-col'>
+     <div className='main w-[100%] flex flex-col' id="home">
             <Navbar />
           
             <div className='flex flex-col justify-center items-center gap-[40px]'>
@@ -32,7 +32,7 @@ function App() {
           <div className='h-[3px]'>
             </div>
 
-        <div className='aboutme text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]'>
+        <div className='aboutme text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]' id="about">
             <h1 className='text-[36px] text-center text-yellow-200 font-bold'>ABOUT ME :</h1>
             <p className='text-[20px] sm:text-[25px] mt-[50px] leading-loose'>A postgraduate in Computer Applications (MCA) with a strong passion for programming and a deep curiosity for exploring new and emerging technologies. Fueled by a passion for constant growth and innovation, I’m always looking to level up my skills and stay ahead in the ever-evolving tech world. With an ambition to become a Software Development Engineer (SDE), my aim is to use my knowledge and experience to craft scalable, impactful software solutions that truly make a difference.</p>
         </div>
@@ -40,7 +40,7 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full'>
+        <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full' id="projects">
           <h1 className='text-[36px] text-center text-yellow-200 font-bold'>PROJECTS I'VE WORKED ON :</h1>
           <div className='projects flex flex-col flex-wrap justify-evenly gap-[0px] sm:gap-[70px] text-black mt-[50px]'>
             <a href="https://roomsley.vercel.app/"><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
@@ -50,7 +50,7 @@ function App() {
 
             <a href=""><div className='mt-[50px] md:mr-[-350px] mb-[40px] rotate-3 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
               <img src="portf.png" className='w-full shadow-sm'></img>
-              <h1 className='text-[20px] p-[18px]'>Portfolio</h1>
+              <h1 className='text-[20px] p-[18px]' id="portfolio">Portfolio</h1>
             </div></a>
             </div>
           </div>
@@ -58,7 +58,7 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]'>
+        <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]' id="skills">
           <h1 className='text-center text-[36px] skillstext text-yellow-200 font-bold'>MY TECH STACK :</h1>
           <div className="languages">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
@@ -85,7 +85,7 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[40px] md:p-[100px]'>
+        <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[40px] md:p-[100px]' id="certifications">
             <h1 className='text-[36px] text-yellow-200 font-bold'>CERTIFICATIONS :</h1>
             
             <div>

@@ -16,22 +16,22 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <div className='hidden md:flex gap-[55px] justify-center items-center w-full'>
-          <h1>HOME</h1>
-          <h1>ABOUT ME</h1>
-          <h1>SKILLS</h1>
-          <h1>PROJECTS</h1>
-          <h1>CERTIFICATIONS</h1>
+          <a href="#home"><h1>HOME</h1></a>
+          <a href="#about"><h1>ABOUT ME</h1></a>
+          <a href="#skills"><h1>SKILLS</h1></a>
+          <a href="#projects"><h1>PROJECTS</h1></a>
+          <a href="#certifications"><h1>CERTIFICATIONS</h1></a>
         </div>
       </nav>
 
       {/* Mobile Menu */}
      {isOpen && (
         <div className='fixed top-0 left-0 w-full h-full bg-black z-40 flex flex-col gap-8 px-6 pt-[120px] text-[22px]'>
-            <h1>HOME</h1>
-            <h1>ABOUT ME</h1>
-            <h1>SKILLS</h1>
-            <h1>PROJECTS</h1>
-            <h1>CERTIFICATIONS</h1>
+          <a href="#home"><h1>HOME</h1></a>
+          <a href="#about"><h1>ABOUT ME</h1></a>
+          <a href="#skills"><h1>SKILLS</h1></a>
+          <a href="#projects"><h1>PROJECTS</h1></a>
+          <a href="#certifications"><h1>CERTIFICATIONS</h1></a>
         </div>
         )}
     </>
