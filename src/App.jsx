@@ -14,8 +14,8 @@ function App() {
             <Navbar />
           
             <div className='flex flex-col justify-center items-center gap-[40px]'>
-              <div className='w-full flex items-center flex-col select-none gap-[50px] md:gap-[20px]'>
-              <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center tracking-wide sm:mt-[120px] mt-[160px]'>Rohit</h1>
+              <div className='w-full flex items-center flex-col select-none gap-[60px] md:gap-[20px]'>
+              <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center tracking-wide sm:mt-[120px] mt-[200px]'>Rohit</h1>
               <div class="loader"><span class="loader-text">Software Developer</span></div>
 
               <div className='w-full flex justify-center mt-[40px]'>
