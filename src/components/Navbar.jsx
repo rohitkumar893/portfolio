@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
 
         {/* Desktop Menu */}
-        <div className='hidden md:flex gap-[55px] justify-center items-center w-full'>
+        <div className='hidden md:flex gap-[100px] justify-center items-center w-full'>
           <a href="#about"><h1>ABOUT ME</h1></a>
           <a href="#skills"><h1>SKILLS</h1></a>
           <a href="#projects"><h1>PROJECTS</h1></a>
