@@ -18,8 +18,8 @@ function App() {
               <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center tracking-wide sm:mt-[120px] mt-[200px]'>Rohit</h1>
               <div class="loader"><span class="loader-text">Software Developer</span></div>
 
-              <div className='w-full flex justify-center mt-[40px]'>
-              <div className='bgsocials flex justify-center gap-[40px] w-[350px] h-[100px] rounded-xl'>
+              <div className='w-full flex justify-center mt-[60px] sm:mt-[40px]'>
+              <div className='bgsocials flex justify-center gap-[45px] w-[340px] h-[100px] rounded-xl'>
               <a href="resume.pdf" className='flex flex-col justify-center items-center'><img src="/resumeicon.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>RESUME</h3></a>
               <a href="https://github.com/rohitkumar893" className='flex flex-col justify-center items-center'><img src="/github.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>GITHUB</h3></a>
               <a href="https://www.linkedin.com/in/rohitkumar893/" className='flex flex-col justify-center items-center'><img src="/linkedin.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>LINKEDIN</h3></a>
