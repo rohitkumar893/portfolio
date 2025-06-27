@@ -26,14 +26,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
      {isOpen && (
-        <div className='fixed top-0 left-0 w-full h-full bg-black z-40 flex flex-col gap-8 px-6 pt-[120px] text-[22px]'>
-          <a href="#home"><h1>HOME</h1></a>
-          <a href="#about"><h1>ABOUT ME</h1></a>
-          <a href="#skills"><h1>SKILLS</h1></a>
-          <a href="#projects"><h1>PROJECTS</h1></a>
-          <a href="#certifications"><h1>CERTIFICATIONS</h1></a>
-        </div>
-        )}
+ 
     </>
   );
 };
