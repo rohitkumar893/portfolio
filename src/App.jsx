@@ -1,31 +1,31 @@
 import './App.css'
+import Navbar from './components/Navbar'
 
 function App() {
-
   return (
      <>
-
         <div className='w-auto h-[30px] fixed left-4 top-[98%] rotate-[-90deg] origin-left hidden md:block bg-white px-[10px]'>
           <h2 className='text-black font-medium'>rkrohitkumar893@gmail.com</h2>
         </div>
       
       <div className="container3"></div>
 
-     <div className='main w-[100%]'>
-          <nav className='navbar fixed h-[120px] w-full flex p-[30px] justify-center items-center gap-[45px]'>
+     <div className='main w-[100%] flex flex-col'>
+            <Navbar />
+          
+            <div className='flex flex-col justify-center items-center gap-[40px]'>
+              <div className='w-full flex items-center flex-col select-none gap-[20px]'>
+              <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center tracking-wide mt-[120px]'>Rohit</h1>
+              <div class="loader"><span class="loader-text">Software Developer</span></div>
+
+              <div className='w-full flex justify-center mt-[40px]'>
+              <div className='bgsocials flex justify-center gap-[40px] w-[350px] h-[100px] rounded-xl'>
               <a href="resume.pdf" className='flex flex-col justify-center items-center'><img src="/resumeicon.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>RESUME</h3></a>
               <a href="https://github.com/rohitkumar893" className='flex flex-col justify-center items-center'><img src="/github.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>GITHUB</h3></a>
               <a href="https://www.linkedin.com/in/rohitkumar893/" className='flex flex-col justify-center items-center'><img src="/linkedin.png" className='h-[40px] drop-shadow-lg transition-transform hover:scale-110'></img><h3 className='label text-center mt-[6px]'>LINKEDIN</h3></a>
-          </nav>
-            
-            <div className='w-full h-screen flex justify-center items-center flex-col select-none'>
-              <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center items-center tracking-wide'>Rohit</h1>
-              <div class="loader"><span class="loader-text">Software Developer</span></div>
-              
             </div>
-
-            <div className='w-full flex justify-center items-end mt-[-130px] sm:mt-[-90px] animate-bounce '>
-              <img src="downarrow.png" className='arrow h-[32px] w-[32px] drop-shadow-lg transition-transform hover:translate-y-4'></img>
+            </div>
+            </div>
             </div>
           </div>
 
@@ -112,6 +112,5 @@ function App() {
     </>
   )
 }
-
 
 export default App
