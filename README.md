@@ -5,12 +5,6 @@ Welcome to my personal developer portfolio – a clean, modern showcase of who I
 
 ---
 
-## 📸 Preview
-
-![Portfolio Screenshot](preview.png)
-
----
-
 ## 🚀 Features
 
 - 🧑‍💻 **Responsive Navbar** for easy navigation across sections
@@ -18,8 +12,8 @@ Welcome to my personal developer portfolio – a clean, modern showcase of who I
 - 📄 **Resume + GitHub + LinkedIn** quick-access buttons
 - 👤 **About Me Section** with a strong mission-driven intro
 - 🧱 **Projects Section** – projects i've been working on
-- 🧠 **Skills Section** languages, libraries and frameworks i use
-- 🏅 **Certifications Section** with Coursera certificates (Meta, Microsoft)
+- 🧠 **Skills Section**  programming languages, libraries, tools and frameworks
+- 🏅 **Certifications Section** with coursera certificates (Meta, Microsoft)
 
 ---
 
