@@ -1,12 +1,22 @@
-# React + Vite
+Welcome to my personal developer portfolio - a clean, modern showcase of who I am and what I build.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🔗 Live Site:
+➡️ [https://your-portfolio-live-link.vercel.app](https://your-portfolio-live-link.vercel.app)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧑‍💻 **Responsive Navbar** for easy navigation across sections
+- 🏠 **Hero Section** with name and animated “Software Developer” loader
+- 📄 **Resume + GitHub + LinkedIn** quick-access buttons
+- 👤 **About Me Section** with a strong mission-driven intro
+- 🧱 **Projects Section** - projects i've been working on
+- 🧠 **Skills Section**  programming languages, libraries, tools and frameworks
+- 🏅 **Certifications Section** with coursera certificates (Meta, Microsoft)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+React, Tailwind CSS, Vite, CSS Keyframes & Transitions, Vercel
