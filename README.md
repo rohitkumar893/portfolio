@@ -11,7 +11,7 @@ Welcome to my personal developer portfolio - a clean, modern showcase of who I a
 - 🏠 **Hero Section** with name and animated “Software Developer” loader
 - 📄 **Resume + GitHub + LinkedIn** quick-access buttons
 - 👤 **About Me Section** with a strong mission-driven intro
-- 🧱 **Projects Section** – projects i've been working on
+- 🧱 **Projects Section** - projects i've been working on
 - 🧠 **Skills Section**  programming languages, libraries, tools and frameworks
 - 🏅 **Certifications Section** with coursera certificates (Meta, Microsoft)
 
