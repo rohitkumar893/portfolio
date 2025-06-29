@@ -6,16 +6,16 @@ const Navbar = () => {
 
   return (
     <>
-        <nav className='navbar fixed h-[100px] text-[18px] w-full flex justify-between items-center px-[30px] bg-white z-50'>
+        <nav className='navbar fixed h-[90px] text-[18px] w-full flex justify-between items-center px-[30px] bg-white z-50'>
         {/* Hamburger */}
         <div className='md:hidden'>
           <button onClick={() => setIsOpen(!isOpen)}>
-            {isOpen ? <X size={28} /> : <Menu size={28} />}
+            {isOpen ? <X size={28} /> : <Menu size={36} />}
           </button>
         </div>
 
         {/* Desktop Menu */}
-        <div className='hidden md:flex gap-[100px] justify-center items-center w-full'>
+        <div className='hidden  md:flex gap-[100px] justify-center items-center w-full text-[20px]'>
           <a href="#about"><h1>ABOUT</h1></a>
           <a href="#skills"><h1>SKILLS</h1></a>
           <a href="#projects"><h1>PROJECTS</h1></a>
