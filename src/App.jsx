@@ -64,54 +64,54 @@ function App() {
           <div className="languages">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>LANGUAGES</h3>
             
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="typescript.png" className="h-[40px]" alt="TypeScript Logo" />
-              <h3 className="text-[32px]">TYPESCRIPT</h3>
+              <h3 className="text-[30px]">TYPESCRIPT</h3>
             </div>
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="javascript.png" className="h-[40px]" alt="JavaScript Logo" />
-              <h3 className="text-[32px]">JAVASCRIPT</h3>
+              <h3 className="text-[30px]">JAVASCRIPT</h3>
             </div>
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="html.png" className="h-[40px]" alt="HTML Logo" />
-              <h3 className="text-[32px]">HTML</h3>
+              <h3 className="text-[30px]">HTML</h3>
             </div>
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="css.png" className="h-[40px]" alt="CSS Logo" />
-              <h3 className="text-[32px]">CSS</h3>
+              <h3 className="text-[30px]">CSS</h3>
             </div>
           </div>
 
           <div className="frontend">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>FRONTEND</h3>
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="react.png" className="h-[40px]" alt="React Logo" />
-              <h3 className="text-[32px]">REACT</h3>
+              <h3 className="text-[30px]">REACT</h3>
             </div>
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
-              <img src="Tailwind Logo.png" className="h-[30px]" alt="Tailwind Logo" />
-              <h3 className="text-[32px]">TAILWIND CSS</h3>
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
+              <img src="Tailwind Logo.png" className="h-[28px]" alt="Tailwind Logo" />
+              <h3 className="text-[30px]">TAILWIND CSS</h3>
             </div>
           </div>
 
           <div className="backend">
             <h3 className='text-center text-[32px] mt-[20px] text-yellow-200'>BACKEND</h3>
             
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="nod.png" className="h-[40px] mt-1" alt="Node.js Logo" />
-              <h3 className="text-[32px]">NODE JS</h3>
+              <h3 className="text-[30px]">NODE JS</h3>
             </div>
 
 
-            <div className="flex justify-center items-center gap-6 mt-[20px]">
+            <div className="flex justify-center items-center gap-4 mt-[20px]">
               <img src="exp.png" className="logo2 h-[40px]" alt="Express Logo" />
-              <h3 className="text-[32px]">EXPRESS JS</h3>
-              {/* <h3 className="text-[32px]">FIREBASE</h3> */}
+              <h3 className="text-[30px]">EXPRESS JS</h3>
+              {/* <h3 className="text-[30px]">FIREBASE</h3> */}
             </div>
           </div>    
         </div>
