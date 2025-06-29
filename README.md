@@ -1,4 +1,4 @@
-Welcome to my personal developer portfolio – a clean, modern showcase of who I am, what I build, and how I do it.
+Welcome to my personal developer portfolio - a clean, modern showcase of who I am and what I build.
 
 ### 🔗 Live Site:
 ➡️ [https://your-portfolio-live-link.vercel.app](https://your-portfolio-live-link.vercel.app)
