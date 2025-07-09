@@ -169,7 +169,7 @@ html, body{
     z-index: -1;
   }
 
-  .projectscont, .aboutme, .skills, .logos, .certifications{
+  .projectscont, .aboutme, .skills, .logos, .certifications, .githubstats{
     background-image: url('/public/divbg.png');
     background-position: center;
     background-size: contain;

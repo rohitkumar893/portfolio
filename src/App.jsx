@@ -32,6 +32,7 @@ function App() {
           <div className='h-[3px]'>
             </div>
 
+           
         <div className='aboutme text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px]' id="about">
             <h1 className='text-[36px] text-center text-yellow-200 font-bold'>ABOUT ME :</h1>
             <p className='text-[20px] sm:text-[25px] mt-[50px] leading-loose'>A postgraduate in Computer Applications (MCA) with a strong passion for programming and a deep curiosity for exploring new and emerging technologies. Fueled by a passion for constant growth and innovation, I’m always looking to level up my skills and stay ahead in the ever-evolving tech world. With an ambition to become a Software Development Engineer (SDE), my aim is to use my knowledge and experience to craft scalable, impactful software solutions that truly make a difference.</p>
@@ -39,6 +40,16 @@ function App() {
 
         <div className='h-[3px]'>
         </div>
+
+        <div className='githubstats text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px] flex flex-col items-center justify-center gap-[50px]' id="github">
+            <h1 className='text-[36px] text-center text-yellow-200 font-bold'>GITHUB STATS :</h1>
+            <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumar893&theme=dark&hide_border=false" className='w-[350px] sm:w-[480px]'></img>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar893&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub chart" className='w-[348px] sm:w-[480px]'/>
+        </div>
+
+        <div className='h-[3px]'>
+            </div>
+
 
         <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full' id="projects">
           <h1 className='text-[36px] text-center text-yellow-200 font-bold'>PROJECTS I'VE WORKED ON :</h1>
