@@ -39,19 +39,9 @@ function App() {
         </div>
 
         <div className='h-[3px]'>
-        </div>
-
-        <div className='githubstats text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px] flex flex-col items-center justify-center gap-[50px]' id="github">
-            <h1 className='text-[36px] text-center text-yellow-200 font-bold'>GITHUB STATS :</h1>
-            <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumar893&theme=dark&hide_border=false" className='w-[350px] sm:w-[480px]'></img>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar893&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub chart" className='w-[348px] sm:w-[480px]'/>
-        </div>
-
-        <div className='h-[3px]'>
             </div>
 
-
-        <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[80px] flex-col w-full' id="projects">
+        <div className='projectscont bg-black text-white flex justify-center items-center h-auto p-[150px] px-[40px] sm:px-[120px] flex-col w-full' id="projects">
           <h1 className='text-[36px] text-center text-yellow-200 font-bold'>PROJECTS I'VE WORKED ON :</h1>
           <div className='projects flex flex-col flex-wrap justify-evenly gap-[0px] sm:gap-[70px] text-black mt-[50px]'>
             <a href="https://roomsley.vercel.app/"><div className='mt-[50px] md:ml-[-350px] mb-[40px] rotate-357 h-[280px] w-[360px] sm:h-[300px] sm:w-[400px] flex flex-col justify-between items-center bg-gray-100 rounded-md hover:bg-blue-300'>
@@ -69,7 +59,7 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='skills text-[40px] w-full bg-black p-[80px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]' id="skills">
+        <div className='skills text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px] flex flex-col gap-[40px]' id="skills">
           <h1 className='text-center text-[36px] skillstext text-yellow-200 font-bold'>MY TECH STACK :</h1>
           
           <div className="languages">
@@ -130,13 +120,22 @@ function App() {
         <div className='h-[3px]'>
         </div>
 
-        <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[40px] md:p-[100px]' id="certifications">
+        <div className='certifications flex flex-col justify-center items-center gap-[90px] p-[150px] px-[40px] sm:px-[120px]' id="certifications">
             <h1 className='text-[36px] text-yellow-200 font-bold'>CERTIFICATIONS :</h1>
             
             <div>
               <a href='https://www.coursera.org/account/accomplishments/verify/LFQ94ZUI1Q7K'><img src='microsoft.jpg' className='h-[240px] md:h-[340px] rotate-357 hover:scale-95'></img></a>
               <a href='https://www.coursera.org/account/accomplishments/verify/2FGSN01B5TS3'><img src='meta.jpg' className='h-[240px] md:h-[340px] mt-[100px] rotate-3 hover:scale-95'></img></a>
             </div>
+        </div>
+
+        <div className='h-[3px]'>
+        </div>
+
+        <div className='githubstats text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px] flex flex-col items-center justify-center gap-[10px]' id="github">
+            <h1 className='text-[36px] text-center text-yellow-200 font-bold'>GITHUB STATS :</h1>
+            <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumar893&theme=dark&hide_border=false" className='w-[350px] sm:w-[480px] mt-[50px]'></img>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar893&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub chart" className='w-[348px] sm:w-[480px] mt-[50px]'/>
         </div>
 
         <div className='h-[3px]'>
