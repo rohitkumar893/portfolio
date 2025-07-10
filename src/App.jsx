@@ -8,9 +8,9 @@ function App() {
           <h2 className='text-black font-medium'>rkrohitkumar893@gmail.com</h2>
         </div>
       
-      <div className="container3"></div>
+      <div className="container3" id="home"></div>
 
-     <div className='main w-[100%] flex flex-col' id="home">
+     <div className='main w-[100%] flex flex-col'>
             
             <Navbar />
           
