@@ -96,6 +96,11 @@ html, body{
   }
 
   .namelogo{
+    opacity: 0;
+    animation: anim;
+    animation-delay: 0.1s;
+    animation-duration: 2.4s;
+    animation-fill-mode: forwards;
     font-weight: 600;
     background: linear-gradient(to right,#b4aa20, #ffffe1);
     background-clip: text;
@@ -146,11 +151,6 @@ html, body{
 
   .main{
     min-height: 100%;
-    opacity: 0;
-    animation: anim;
-    animation-delay: 0.1s;
-    animation-duration: 2.4s;
-    animation-fill-mode: forwards;
   }
 
   .arrow{
