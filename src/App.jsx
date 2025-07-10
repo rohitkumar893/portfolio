@@ -11,9 +11,10 @@ function App() {
       <div className="container3"></div>
 
      <div className='main w-[100%] flex flex-col' id="home">
+            
             <Navbar />
           
-            <div className='flex flex-col justify-center items-center gap-[40px]'>
+            <div className='flex flex-col justify-center items-center gap-[40px]' id="home">
               <div className='w-full flex items-center flex-col select-none gap-[70px] md:gap-[20px]'>
               <h1 className='namelogo drop-shadow-lg text-[110px] sm:text-[185px]  flex justify-center tracking-wide sm:mt-[120px] mt-[220px]'>Rohit</h1>
               <div class="loader"><span class="loader-text">Software Developer</span></div>
