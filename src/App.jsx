@@ -135,7 +135,7 @@ function App() {
 
         <div className='githubstats text-[34px] sm:text-[40px] w-full bg-black p-[150px] px-[40px] sm:px-[120px] flex flex-col items-center justify-center gap-[10px]' id="github">
             <h1 className='text-[36px] text-center text-yellow-200 font-bold'>GITHUB STATS :</h1>
-            <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumar893&theme=dark&hide_border=false" className='w-[350px] sm:w-[480px] mt-[50px]'></img>
+            <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumar893&theme=dark&hide_border=false" className='w-[350px] sm:w-[485px] mt-[50px]'></img>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar893&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub chart" className='w-[348px] sm:w-[480px] mt-[50px]'/>
         </div>
 
